@@ -2,7 +2,6 @@
 - 👀 I’m interested in avoiding becoming a soldier
 - 🌱 I’m currently learning java/C
 - 💞️ I’m looking to collaborate on drinking beer
-- Lyamkin Egor Sergeyevich
 
 <!---
 4Bul04kka/4Bul04kka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
