@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4Bul04kka
 - 👀 I’m interested in avoiding becoming a soldier
-- 🌱 I’m currently learning java/C
+- 🌱 I’m currently learning java/C++
 - 💞️ I’m looking to collaborate on drinking beer
 
 <!---
